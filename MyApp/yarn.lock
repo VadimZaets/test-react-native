@@ -3752,7 +3752,7 @@ internal-slot@^1.0.5:
     hasown "^2.0.0"
     side-channel "^1.0.4"
 
-invariant@*, invariant@^2.2.4, invariant@2.2.4:
+invariant@*, invariant@^2.2.2, invariant@^2.2.4, invariant@2.2.4:
   version "2.2.4"
   resolved "https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz"
   integrity sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==
@@ -5571,6 +5571,13 @@ react-native-appsflyer@^6.12.2:
   version "6.12.2"
   resolved "https://registry.npmjs.org/react-native-appsflyer/-/react-native-appsflyer-6.12.2.tgz"
   integrity sha512-3zY0heE7bFXfEzSkEhuLhLJUD/dlFYt1r21ENP+15KgIFXfygOo3JqEMpKcugaiXZK4Vy6dQR9j/88LzJiDMog==
+
+react-native-onesignal@^5.0.2:
+  version "5.0.2"
+  resolved "https://registry.npmjs.org/react-native-onesignal/-/react-native-onesignal-5.0.2.tgz"
+  integrity sha512-8CsEQRRwoiNX6JhW0FWbCgkKz5OrsgtmW2BLmOkg7TwNA9Fge2obMda3DSeZniZVDFs6viz6DXkgtZnJjdgNvg==
+  dependencies:
+    invariant "^2.2.2"
 
 react-native-webview@13.2.2:
   version "13.2.2"
